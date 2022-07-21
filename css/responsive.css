@@ -5,7 +5,7 @@
 }
 @media (max-width:1200px){
     .section2 .image_div img {
-  width: 80%;
+  width: 100%;
 }
     .section2 .social_icon i {
   font-size: 46px;
